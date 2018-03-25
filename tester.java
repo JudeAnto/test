@@ -10,9 +10,7 @@ import javafx.scene.chart.XYChart;
 import javafx.stage.Stage;
 
 public class Main extends Application {
-
-
-dqodqodjqodjqodjqodjqodjqodjqod
+nice work my friend
 
 
 
