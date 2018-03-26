@@ -1,3 +1,6 @@
 out
 .idea
 gradlet.iml
+.gitignore
+check.txt
+tester.java
